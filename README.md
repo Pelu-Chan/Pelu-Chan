@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pelu-Chan
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning GodotScript
+- 🌱 I’m currently learning GodotScript, GML
 - 💞️ I’m looking to collaborate on gamedev
 - 😄 Pronouns: She/her or whatever
 - ⚡ Fun fact: I like fluffs
